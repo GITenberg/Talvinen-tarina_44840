@@ -1,0 +1,43 @@
+_repo: Talvinen-tarina_44840
+_version: 0.1.0
+alternative_title: The winter's tale. Finnish
+contributor:
+  translator:
+    agent_name: Cajander, Paavo Emil
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '4531'
+    url: http://www.gutenberg.org/2009/agents/4531
+    wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2014-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44840'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sicily (Italy) -- Kings and rulers -- Drama'
+- !lcsh 'Married people -- Drama'
+- !lcsh 'Castaways -- Drama'
+- !lcc 'PR'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Tragicomedy'
+title: Talvinen tarina
+url: http://www.gutenberg.org/ebooks/44840
